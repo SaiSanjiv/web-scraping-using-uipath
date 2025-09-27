@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Amazon.com  gaming",
+  "Type": "Screen",
+  "Id": "UFt1f8u0nUeEY8dJB7L29w",
+  "Reference": "tPzgFvuQ_Uq8haTKk-Spvw/UFt1f8u0nUeEY8dJB7L29w",
+  "ParentRef": "tPzgFvuQ_Uq8haTKk-Spvw/KS73Ppz4y0-AJyLhQc2oXA",
+  "Created": "2025-09-27T05:54:35.4145891Z",
+  "Updated": "2025-09-27T05:54:35.4145891Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

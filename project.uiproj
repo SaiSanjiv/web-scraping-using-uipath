@@ -1,0 +1,6 @@
+{
+  "Name": "web scraping",
+  "ProjectType": "Process",
+  "Description": "scraping data from amazon\r\n",
+  "MainFile": "Main.xaml"
+}

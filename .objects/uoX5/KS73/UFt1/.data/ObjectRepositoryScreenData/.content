@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="eT-vv2lZ1U273IfjZZz08Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1098" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF0SURBVDhPlZMxS8NAGIYD2vwBR80P0Knt7qTZRZr8A9u9Q3+ASIWCULG4ClnqUi10EWy7qx0cLKQuOrQpOGhJ1cGhr7y5XHokReoLR7jv3u/5vrvcaQB0ACcAhlhe9DJH1wAcx1cHgwFKpRJylgXLtuE4TtwiVSFgrEZ6vR5WUimsxgaBCzQmYKJG8oVCkLBrmnBdN5pvGIZqk5okAJ7nBV10Oh1cN5vBFmQXC5QEcP/pbDaxhaUBsiIh7OasVvsfQJqPyuVgfpDPRzHf91UrlQSkM5kogQep/hF2E1MI+PKiCA9w3TCCBH6ZlLNt7Jgmpu9jzFwHuC+KEQFaW8CHq5IXq7svEh8PgTpTJWDUBi414K4ITOfdJPQ5Al4aolhjjRHlDF6vBITjZltU6VeBpyrQPwW6e6IqfSzI9RAwv8pvD8JICM11DbPwi9YmMLwVvh9fjPAqVyKAFFt8vph3MGzHHVLBY+JzPgfwHV/9Q/QyR/8FZNBNQChmFy8AAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' htmlwindowname='atd-param-exclusion-strategy' title='Amazon.com : gaming' /&gt;" Url="https://www.amazon.com/s?k=gaming&amp;_encoding=UTF8&amp;content-id=amzn1.sym.edf433e2-b6d4-408e-986d-75239a5ced10&amp;pd_rd_r=1633e1d2-c03b-43e3-ad14-ac4e0c3d25cd&amp;pd_rd_w=gG8NJ&amp;pd_rd_wg=UFOg1&amp;pf_rd_p=edf433e2-b6d4-408e-986d-75239a5ced10&amp;pf_rd_r=E4DHQ0D5W395FDNRKRAC&amp;ref=pd_hp_d_atf_unk" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="37eb86f1b13416411bbc89144a294139.jpg" xmlns="">0plBoVOZ2lU2jxpVT5jKLEA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

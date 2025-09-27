@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Amazon.com  gaming",
+  "Type": "App",
+  "Id": "uoX5LE8MHkumbMrjqVOFhQ",
+  "Reference": "tPzgFvuQ_Uq8haTKk-Spvw/uoX5LE8MHkumbMrjqVOFhQ",
+  "Created": "2025-09-27T05:54:35.3040658Z",
+  "Updated": "2025-09-27T05:54:35.3040658Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
